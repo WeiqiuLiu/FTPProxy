@@ -10,4 +10,4 @@ FTP proxy was running on Ubuntu Server Virtual Machine, while Filezilla server a
 
 ## Contributors
 
-Yuan Chang# FTPProxy
+Yuan Chang
